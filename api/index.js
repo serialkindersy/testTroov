@@ -1,5 +1,7 @@
+
+
 const express = require('express')
-const db = require('./db')
+const db = require('./bd')
 
 
 // Create express instnace
@@ -20,6 +22,6 @@ app.use(articles)
 
 // Export the server middleware
 module.exports = {
-  path: '/api',
-  handler: app
+    path: '/api',
+    handler: app
 }
