@@ -1,6 +1,7 @@
 {
   "name": "Troov",
   "version": "1.0.0",
+  "autor": "Ibrahima ",
   "private": true,
   "scripts": {
     "dev": "nuxt",
