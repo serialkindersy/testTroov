@@ -29,3 +29,5 @@ Layouts are a great help when you want to change the look and feel of your Nuxt 
 This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
 
 
+## `Config database`
+For configuring database Mongodb change the name of database in  api/db.js file
